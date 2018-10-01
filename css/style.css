@@ -3,8 +3,16 @@ html{
 }
 
 body{
-  background-image: url(moon.jpg);
+  background-color: #232f3e;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.content{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
 }
