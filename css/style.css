@@ -2,9 +2,9 @@ html{
   height: 100%
 }
 
-@@font-face {
-  font-family: telegraphem;
-  src:url(telegraphem.otf);
+@font-face {
+  font-family: "telegraphem";
+  src: url(telegraphem.otf;
 }
 
 body{
